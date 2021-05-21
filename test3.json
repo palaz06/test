@@ -1,0 +1,541 @@
+{
+    "at": { "premium_servers": [{ "host": "at11.lunrac.com", "port": 443 }], "timezoneOffset": 60 },
+    "au": {
+        "premium_servers": [
+            { "host": "au1.lunrac.com", "port": 443 },
+            { "host": "au2.lunrac.com", "port": 443 },
+            { "host": "au3.lunrac.com", "port": 443 },
+            { "host": "au4.lunrac.com", "port": 443 },
+            { "host": "au5.lunrac.com", "port": 443 },
+            { "host": "au6.lunrac.com", "port": 443 },
+            { "host": "au7.lunrac.com", "port": 443 },
+            { "host": "au8.lunrac.com", "port": 443 },
+            { "host": "au9.lunrac.com", "port": 443 },
+            { "host": "au10.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 660
+    },
+    "be": {
+        "premium_servers": [
+            { "host": "be1.lunrac.com", "port": 443 },
+            { "host": "be2.lunrac.com", "port": 443 },
+            { "host": "be3.lunrac.com", "port": 443 },
+            { "host": "be4.lunrac.com", "port": 443 },
+            { "host": "be5.lunrac.com", "port": 443 },
+            { "host": "be6.lunrac.com", "port": 443 },
+            { "host": "be7.lunrac.com", "port": 443 },
+            { "host": "be8.lunrac.com", "port": 443 },
+            { "host": "be9.lunrac.com", "port": 443 },
+            { "host": "be10.lunrac.com", "port": 443 },
+            { "host": "be11.lunrac.com", "port": 443 },
+            { "host": "be12.lunrac.com", "port": 443 },
+            { "host": "be13.lunrac.com", "port": 443 },
+            { "host": "be14.lunrac.com", "port": 443 },
+            { "host": "be15.lunrac.com", "port": 443 },
+            { "host": "be16.lunrac.com", "port": 443 },
+            { "host": "be17.lunrac.com", "port": 443 },
+            { "host": "be18.lunrac.com", "port": 443 },
+            { "host": "be19.lunrac.com", "port": 443 },
+            { "host": "be20.lunrac.com", "port": 443 },
+            { "host": "be21.lunrac.com", "port": 443 },
+            { "host": "be22.lunrac.com", "port": 443 },
+            { "host": "be23.lunrac.com", "port": 443 },
+            { "host": "be24.lunrac.com", "port": 443 },
+            { "host": "be25.lunrac.com", "port": 443 },
+            { "host": "be26.lunrac.com", "port": 443 },
+            { "host": "be27.lunrac.com", "port": 443 },
+            { "host": "be28.lunrac.com", "port": 443 },
+            { "host": "be29.lunrac.com", "port": 443 },
+            { "host": "be30.lunrac.com", "port": 443 },
+            { "host": "be31.lunrac.com", "port": 443 },
+            { "host": "be32.lunrac.com", "port": 443 },
+            { "host": "be33.lunrac.com", "port": 443 },
+            { "host": "be34.lunrac.com", "port": 443 },
+            { "host": "be35.lunrac.com", "port": 443 },
+            { "host": "be36.lunrac.com", "port": 443 },
+            { "host": "be37.lunrac.com", "port": 443 },
+            { "host": "be38.lunrac.com", "port": 443 },
+            { "host": "be39.lunrac.com", "port": 443 },
+            { "host": "be40.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "bg": {
+        "premium_servers": [
+            { "host": "bg1.lunrac.com", "port": 443 },
+            { "host": "bg2.lunrac.com", "port": 443 },
+            { "host": "bg3.lunrac.com", "port": 443 },
+            { "host": "bg4.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 120
+    },
+    "br": { "premium_servers": [{ "host": "br1.lunrac.com", "port": 443 }], "timezoneOffset": -180 },
+    "ca": {
+        "premium_servers": [
+            { "host": "ca1.lunrac.com", "port": 443 },
+            { "host": "ca2.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": -240
+    },
+    "ch": { "premium_servers": [{ "host": "ch2.lunrac.com", "port": 443 }], "timezoneOffset": 60 },
+    "cl": { "premium_servers": [{ "host": "cl1.lunrac.com", "port": 443 }], "timezoneOffset": -180 },
+    "cz": { "premium_servers": [{ "host": "cz6.lunrac.com", "port": 443 }], "timezoneOffset": 60 },
+    "de": {
+        "premium_servers": [
+            { "host": "de1.lunrac.com", "port": 443 },
+            { "host": "de2.lunrac.com", "port": 443 },
+            { "host": "de5.lunrac.com", "port": 443 },
+            { "host": "de11.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "dk": {
+        "premium_servers": [
+            { "host": "dk1.lunrac.com", "port": 443 },
+            { "host": "dk2.lunrac.com", "port": 443 },
+            { "host": "dk3.lunrac.com", "port": 443 },
+            { "host": "dk4.lunrac.com", "port": 443 },
+            { "host": "dk5.lunrac.com", "port": 443 },
+            { "host": "dk6.lunrac.com", "port": 443 },
+            { "host": "dk7.lunrac.com", "port": 443 },
+            { "host": "dk8.lunrac.com", "port": 443 },
+            { "host": "dk9.lunrac.com", "port": 443 },
+            { "host": "dk10.lunrac.com", "port": 443 },
+            { "host": "dk11.lunrac.com", "port": 443 },
+            { "host": "dk12.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "es": {
+        "premium_servers": [
+            { "host": "es1.lunrac.com", "port": 443 },
+            { "host": "es2.lunrac.com", "port": 443 },
+            { "host": "es3.lunrac.com", "port": 443 },
+            { "host": "es4.lunrac.com", "port": 443 },
+            { "host": "es5.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "fi": {
+        "premium_servers": [
+            { "host": "fi1.lunrac.com", "port": 443 },
+            { "host": "fi2.lunrac.com", "port": 443 },
+            { "host": "fi3.lunrac.com", "port": 443 },
+            { "host": "fi4.lunrac.com", "port": 443 },
+            { "host": "fi5.lunrac.com", "port": 443 },
+            { "host": "fi6.lunrac.com", "port": 443 },
+            { "host": "fi7.lunrac.com", "port": 443 },
+            { "host": "fi8.lunrac.com", "port": 443 },
+            { "host": "fi9.lunrac.com", "port": 443 },
+            { "host": "fi10.lunrac.com", "port": 443 },
+            { "host": "fi11.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 120
+    },
+    "fr": {
+        "premium_servers": [
+            { "host": "fr7.lunrac.com", "port": 443 },
+            { "host": "fr8.lunrac.com", "port": 443 },
+            { "host": "fr9.lunrac.com", "port": 443 },
+            { "host": "fr10.lunrac.com", "port": 443 },
+            { "host": "fr11.lunrac.com", "port": 443 },
+            { "host": "fr12.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "hk": {
+        "premium_servers": [
+            { "host": "hk1.lunrac.com", "port": 443 },
+            { "host": "hk2.lunrac.com", "port": 443 },
+            { "host": "hk3.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 480
+    },
+    "hu": { "premium_servers": [{ "host": "hu1.lunrac.com", "port": 443 }], "timezoneOffset": 120 },
+    "ie": {
+        "premium_servers": [
+            { "host": "ie1.lunrac.com", "port": 443 },
+            { "host": "ie2.lunrac.com", "port": 443 },
+            { "host": "ie3.lunrac.com", "port": 443 },
+            { "host": "ie4.lunrac.com", "port": 443 },
+            { "host": "ie5.lunrac.com", "port": 443 },
+            { "host": "ie6.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 0
+    },
+    "il": { "premium_servers": [{ "host": "il1.lunrac.com", "port": 443 }], "timezoneOffset": 180 },
+    "in": {
+        "premium_servers": [
+            { "host": "in3.lunrac.com", "port": 443 },
+            { "host": "in4.lunrac.com", "port": 443 },
+            { "host": "in5.lunrac.com", "port": 443 },
+            { "host": "in6.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 330
+    },
+    "is": {
+        "premium_servers": [
+            { "host": "is1.lunrac.com", "port": 443 },
+            { "host": "is2.lunrac.com", "port": 443 },
+            { "host": "is3.lunrac.com", "port": 443 },
+            { "host": "is4.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 0
+    },
+    "it": {
+        "premium_servers": [
+            { "host": "it1.lunrac.com", "port": 443 },
+            { "host": "it2.lunrac.com", "port": 443 },
+            { "host": "it3.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "jp": {
+        "premium_servers": [
+            { "host": "jp1.lunrac.com", "port": 443 },
+            { "host": "jp2.lunrac.com", "port": 443 },
+            { "host": "jp3.lunrac.com", "port": 443 },
+            { "host": "jp4.lunrac.com", "port": 443 },
+            { "host": "jp5.lunrac.com", "port": 443 },
+            { "host": "jp6.lunrac.com", "port": 443 },
+            { "host": "jp7.lunrac.com", "port": 443 },
+            { "host": "jp8.lunrac.com", "port": 443 },
+            { "host": "jp9.lunrac.com", "port": 443 },
+            { "host": "jp10.lunrac.com", "port": 443 },
+            { "host": "jp11.lunrac.com", "port": 443 },
+            { "host": "jp12.lunrac.com", "port": 443 },
+            { "host": "jp13.lunrac.com", "port": 443 },
+            { "host": "jp14.lunrac.com", "port": 443 },
+            { "host": "jp15.lunrac.com", "port": 443 },
+            { "host": "jp16.lunrac.com", "port": 443 },
+            { "host": "jp17.lunrac.com", "port": 443 },
+            { "host": "jp18.lunrac.com", "port": 443 },
+            { "host": "jp19.lunrac.com", "port": 443 },
+            { "host": "jp20.lunrac.com", "port": 443 },
+            { "host": "jp21.lunrac.com", "port": 443 },
+            { "host": "jp22.lunrac.com", "port": 443 },
+            { "host": "jp23.lunrac.com", "port": 443 },
+            { "host": "jp24.lunrac.com", "port": 443 },
+            { "host": "jp25.lunrac.com", "port": 443 },
+            { "host": "jp26.lunrac.com", "port": 443 },
+            { "host": "jp27.lunrac.com", "port": 443 },
+            { "host": "jp28.lunrac.com", "port": 443 },
+            { "host": "jp29.lunrac.com", "port": 443 },
+            { "host": "jp30.lunrac.com", "port": 443 },
+            { "host": "jp31.lunrac.com", "port": 443 },
+            { "host": "jp32.lunrac.com", "port": 443 },
+            { "host": "jp33.lunrac.com", "port": 443 },
+            { "host": "jp34.lunrac.com", "port": 443 },
+            { "host": "jp35.lunrac.com", "port": 443 },
+            { "host": "jp36.lunrac.com", "port": 443 },
+            { "host": "jp37.lunrac.com", "port": 443 },
+            { "host": "jp38.lunrac.com", "port": 443 },
+            { "host": "jp39.lunrac.com", "port": 443 },
+            { "host": "jp40.lunrac.com", "port": 443 },
+            { "host": "jp41.lunrac.com", "port": 443 },
+            { "host": "jp42.lunrac.com", "port": 443 },
+            { "host": "jp43.lunrac.com", "port": 443 },
+            { "host": "jp44.lunrac.com", "port": 443 },
+            { "host": "jp45.lunrac.com", "port": 443 },
+            { "host": "jp46.lunrac.com", "port": 443 },
+            { "host": "jp47.lunrac.com", "port": 443 },
+            { "host": "jp48.lunrac.com", "port": 443 },
+            { "host": "jp49.lunrac.com", "port": 443 },
+            { "host": "jp50.lunrac.com", "port": 443 },
+            { "host": "jp51.lunrac.com", "port": 443 },
+            { "host": "jp52.lunrac.com", "port": 443 },
+            { "host": "jp53.lunrac.com", "port": 443 },
+            { "host": "jp54.lunrac.com", "port": 443 },
+            { "host": "jp55.lunrac.com", "port": 443 },
+            { "host": "jp56.lunrac.com", "port": 443 },
+            { "host": "jp57.lunrac.com", "port": 443 },
+            { "host": "jp58.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 540
+    },
+    "kr": {
+        "premium_servers": [
+            { "host": "kr1.lunrac.com", "port": 443 },
+            { "host": "kr2.lunrac.com", "port": 443 },
+            { "host": "kr3.lunrac.com", "port": 443 },
+            { "host": "kr4.lunrac.com", "port": 443 },
+            { "host": "kr5.lunrac.com", "port": 443 },
+            { "host": "kr6.lunrac.com", "port": 443 },
+            { "host": "kr7.lunrac.com", "port": 443 },
+            { "host": "kr8.lunrac.com", "port": 443 },
+            { "host": "kr9.lunrac.com", "port": 443 },
+            { "host": "kr10.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 540
+    },
+    "lt": {
+        "premium_servers": [
+            { "host": "lt1.lunrac.com", "port": 443 },
+            { "host": "lt2.lunrac.com", "port": 443 },
+            { "host": "lt3.lunrac.com", "port": 443 },
+            { "host": "lt4.lunrac.com", "port": 443 },
+            { "host": "lt5.lunrac.com", "port": 443 },
+            { "host": "lt6.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 120
+    },
+    "lu": { "premium_servers": [{ "host": "lu2.lunrac.com", "port": 443 }], "timezoneOffset": 60 },
+    "lv": { "premium_servers": [{ "host": "lv2.lunrac.com", "port": 443 }], "timezoneOffset": 120 },
+    "nl": {
+        "fast_servers": [{ "host": "fnl52.tcdn.me", "port": 443 }],
+        "premium_servers": [
+            { "host": "nl9.lunrac.com", "port": 443 },
+            { "host": "nl10.lunrac.com", "port": 443 },
+            { "host": "nl11.lunrac.com", "port": 443 },
+            { "host": "nl12.lunrac.com", "port": 443 },
+            { "host": "nl13.lunrac.com", "port": 443 },
+            { "host": "nl14.lunrac.com", "port": 443 },
+            { "host": "nl15.lunrac.com", "port": 443 },
+            { "host": "nl16.lunrac.com", "port": 443 }
+        ],
+        "servers": [
+            { "host": "nl52.tcdn.me", "port": 443 },
+            { "host": "nl53.tcdn.me", "port": 443 },
+            { "host": "nl54.tcdn.me", "port": 443 },
+            { "host": "nl55.tcdn.me", "port": 443 },
+            { "host": "nl56.tcdn.me", "port": 443 },
+            { "host": "nl57.tcdn.me", "port": 443 },
+            { "host": "nl58.tcdn.me", "port": 443 },
+            { "host": "nl59.tcdn.me", "port": 443 },
+            { "host": "nl60.tcdn.me", "port": 443 },
+            { "host": "nl61.tcdn.me", "port": 443 },
+            { "host": "nl62.tcdn.me", "port": 443 },
+            { "host": "nl63.tcdn.me", "port": 443 },
+            { "host": "nl64.tcdn.me", "port": 443 },
+            { "host": "nl65.tcdn.me", "port": 443 },
+            { "host": "nl66.tcdn.me", "port": 443 },
+            { "host": "nl67.tcdn.me", "port": 443 },
+            { "host": "nl68.tcdn.me", "port": 443 },
+            { "host": "nl69.tcdn.me", "port": 443 },
+            { "host": "nl70.tcdn.me", "port": 443 },
+            { "host": "nl71.tcdn.me", "port": 443 },
+            { "host": "nl72.tcdn.me", "port": 443 },
+            { "host": "nl73.tcdn.me", "port": 443 },
+            { "host": "nl74.tcdn.me", "port": 443 },
+            { "host": "nl75.tcdn.me", "port": 443 },
+            { "host": "nl76.tcdn.me", "port": 443 },
+            { "host": "nl77.tcdn.me", "port": 443 },
+            { "host": "nl78.tcdn.me", "port": 443 },
+            { "host": "nl79.tcdn.me", "port": 443 },
+            { "host": "nl80.tcdn.me", "port": 443 },
+            { "host": "nl81.tcdn.me", "port": 443 },
+            { "host": "nl82.tcdn.me", "port": 443 },
+            { "host": "nl83.tcdn.me", "port": 443 },
+            { "host": "nl84.tcdn.me", "port": 443 },
+            { "host": "nl85.tcdn.me", "port": 443 },
+            { "host": "nl86.tcdn.me", "port": 443 },
+            { "host": "nl87.tcdn.me", "port": 443 },
+            { "host": "nl88.tcdn.me", "port": 443 },
+            { "host": "nl89.tcdn.me", "port": 443 },
+            { "host": "nl90.tcdn.me", "port": 443 },
+            { "host": "nl91.tcdn.me", "port": 443 },
+            { "host": "nl92.tcdn.me", "port": 443 },
+            { "host": "nl93.tcdn.me", "port": 443 },
+            { "host": "nl94.tcdn.me", "port": 443 },
+            { "host": "nl95.tcdn.me", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "no": {
+        "premium_servers": [
+            { "host": "no1.lunrac.com", "port": 443 },
+            { "host": "no2.lunrac.com", "port": 443 },
+            { "host": "no3.lunrac.com", "port": 443 },
+            { "host": "no4.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "nz": { "premium_servers": [{ "host": "nz1.lunrac.com", "port": 443 }], "timezoneOffset": 780 },
+    "pl": {
+        "premium_servers": [
+            { "host": "pl1.lunrac.com", "port": 443 },
+            { "host": "pl2.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "ro": {
+        "premium_servers": [
+            { "host": "ro4.lunrac.com", "port": 443 },
+            { "host": "ro5.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 120
+    },
+    "rs": { "premium_servers": [{ "host": "rs1.lunrac.com", "port": 443 }], "timezoneOffset": 120 },
+    "ru": {
+        "premium_servers": [
+            { "host": "ru1.lunrac.com", "port": 443 },
+            { "host": "ru2.lunrac.com", "port": 443 },
+            { "host": "ru3.lunrac.com", "port": 443 },
+            { "host": "ru4.lunrac.com", "port": 443 },
+            { "host": "ru5.lunrac.com", "port": 443 },
+            { "host": "ru6.lunrac.com", "port": 443 },
+            { "host": "ru7.lunrac.com", "port": 443 },
+            { "host": "ru8.lunrac.com", "port": 443 },
+            { "host": "ru9.lunrac.com", "port": 443 },
+            { "host": "ru10.lunrac.com", "port": 443 },
+            { "host": "ru11.lunrac.com", "port": 443 },
+            { "host": "ru12.lunrac.com", "port": 443 },
+            { "host": "ru13.lunrac.com", "port": 443 },
+            { "host": "ru14.lunrac.com", "port": 443 },
+            { "host": "ru15.lunrac.com", "port": 443 },
+            { "host": "ru16.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 180
+    },
+    "se": {
+        "premium_servers": [
+            { "host": "se10.lunrac.com", "port": 443 },
+            { "host": "se11.lunrac.com", "port": 443 },
+            { "host": "se12.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 60
+    },
+    "sg": {
+        "fast_servers": [{ "host": "fsg1.tcdn.me", "port": 443 }],
+        "premium_servers": [
+            { "host": "sg5.lunrac.com", "port": 443 },
+            { "host": "sg6.lunrac.com", "port": 443 },
+            { "host": "sg7.lunrac.com", "port": 443 },
+            { "host": "sg8.lunrac.com", "port": 443 },
+            { "host": "sg9.lunrac.com", "port": 443 },
+            { "host": "sg10.lunrac.com", "port": 443 },
+            { "host": "sg11.lunrac.com", "port": 443 },
+            { "host": "sg12.lunrac.com", "port": 443 }
+        ],
+        "servers": [
+            { "host": "sg1.tcdn.me", "port": 443 },
+            { "host": "sg2.tcdn.me", "port": 443 },
+            { "host": "sg3.tcdn.me", "port": 443 },
+            { "host": "sg4.tcdn.me", "port": 443 },
+            { "host": "sg5.tcdn.me", "port": 443 },
+            { "host": "sg6.tcdn.me", "port": 443 },
+            { "host": "sg7.tcdn.me", "port": 443 },
+            { "host": "sg8.tcdn.me", "port": 443 },
+            { "host": "sg9.tcdn.me", "port": 443 },
+            { "host": "sg10.tcdn.me", "port": 443 }
+        ],
+        "timezoneOffset": 480
+    },
+    "si": { "premium_servers": [{ "host": "si1.lunrac.com", "port": 443 }], "timezoneOffset": 120 },
+    "tr": {
+        "premium_servers": [
+            { "host": "tr1.lunrac.com", "port": 443 },
+            { "host": "tr2.lunrac.com", "port": 443 },
+            { "host": "tr3.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 180
+    },
+    "ua": { "premium_servers": [{ "host": "ua2.lunrac.com", "port": 443 }], "timezoneOffset": 180 },
+    "uk": {
+        "fast_servers": [{ "host": "fuk22.tcdn.me", "port": 443 }],
+        "premium_servers": [
+            { "host": "uk2.lunrac.com", "port": 443 },
+            { "host": "uk4.lunrac.com", "port": 443 },
+            { "host": "uk5.lunrac.com", "port": 443 },
+            { "host": "uk6.lunrac.com", "port": 443 },
+            { "host": "uk7.lunrac.com", "port": 443 },
+            { "host": "uk10.lunrac.com", "port": 443 },
+            { "host": "uk21.lunrac.com", "port": 443 },
+            { "host": "uk25.lunrac.com", "port": 443 },
+            { "host": "uk27.lunrac.com", "port": 443 },
+            { "host": "uk29.lunrac.com", "port": 443 },
+            { "host": "uk33.lunrac.com", "port": 443 },
+            { "host": "uk35.lunrac.com", "port": 443 },
+            { "host": "uk36.lunrac.com", "port": 443 },
+            { "host": "uk37.lunrac.com", "port": 443 },
+            { "host": "uk38.lunrac.com", "port": 443 },
+            { "host": "uk39.lunrac.com", "port": 443 },
+            { "host": "uk40.lunrac.com", "port": 443 },
+            { "host": "uk41.lunrac.com", "port": 443 },
+            { "host": "uk43.lunrac.com", "port": 443 },
+            { "host": "uk44.lunrac.com", "port": 443 },
+            { "host": "uk45.lunrac.com", "port": 443 },
+            { "host": "uk48.lunrac.com", "port": 443 },
+            { "host": "uk50.lunrac.com", "port": 443 },
+            { "host": "uk53.lunrac.com", "port": 443 }
+        ],
+        "servers": [
+            { "host": "uk22.tcdn.me", "port": 443 },
+            { "host": "uk23.tcdn.me", "port": 443 },
+            { "host": "uk24.tcdn.me", "port": 443 },
+            { "host": "uk25.tcdn.me", "port": 443 },
+            { "host": "uk26.tcdn.me", "port": 443 },
+            { "host": "uk27.tcdn.me", "port": 443 },
+            { "host": "uk28.tcdn.me", "port": 443 },
+            { "host": "uk29.tcdn.me", "port": 443 },
+            { "host": "uk30.tcdn.me", "port": 443 },
+            { "host": "uk31.tcdn.me", "port": 443 },
+            { "host": "uk32.tcdn.me", "port": 443 },
+            { "host": "uk33.tcdn.me", "port": 443 },
+            { "host": "uk34.tcdn.me", "port": 443 },
+            { "host": "uk35.tcdn.me", "port": 443 },
+            { "host": "uk36.tcdn.me", "port": 443 },
+            { "host": "uk37.tcdn.me", "port": 443 }
+        ],
+        "timezoneOffset": 0
+    },
+    "us": {
+        "fast_servers": [{ "host": "fus21.tcdn.me", "port": 443 }],
+        "premium_servers": [
+            { "host": "us1.lunrac.com", "port": 443 },
+            { "host": "us2.lunrac.com", "port": 443 },
+            { "host": "us7.lunrac.com", "port": 443 },
+            { "host": "us10.lunrac.com", "port": 443 },
+            { "host": "us11.lunrac.com", "port": 443 },
+            { "host": "us12.lunrac.com", "port": 443 },
+            { "host": "us13.lunrac.com", "port": 443 },
+            { "host": "us14.lunrac.com", "port": 443 }
+        ],
+        "servers": [
+            { "host": "us21.tcdn.me", "port": 443 },
+            { "host": "us23.tcdn.me", "port": 443 },
+            { "host": "us24.tcdn.me", "port": 443 },
+            { "host": "us25.tcdn.me", "port": 443 },
+            { "host": "us26.tcdn.me", "port": 443 },
+            { "host": "us28.tcdn.me", "port": 443 },
+            { "host": "us29.tcdn.me", "port": 443 },
+            { "host": "us30.tcdn.me", "port": 443 },
+            { "host": "us31.tcdn.me", "port": 443 },
+            { "host": "us32.tcdn.me", "port": 443 },
+            { "host": "us34.tcdn.me", "port": 443 },
+            { "host": "us35.tcdn.me", "port": 443 }
+        ],
+        "timezoneOffset": -300
+    },
+    "usw": {
+        "premium_servers": [
+            { "host": "usw2.lunrac.com", "port": 443 },
+            { "host": "usw3.lunrac.com", "port": 443 },
+            { "host": "usw4.lunrac.com", "port": 443 },
+            { "host": "usw5.lunrac.com", "port": 443 },
+            { "host": "usw6.lunrac.com", "port": 443 },
+            { "host": "usw7.lunrac.com", "port": 443 },
+            { "host": "usw8.lunrac.com", "port": 443 },
+            { "host": "usw9.lunrac.com", "port": 443 },
+            { "host": "usw10.lunrac.com", "port": 443 },
+            { "host": "usw11.lunrac.com", "port": 443 },
+            { "host": "usw12.lunrac.com", "port": 443 },
+            { "host": "usw13.lunrac.com", "port": 443 },
+            { "host": "usw14.lunrac.com", "port": 443 },
+            { "host": "usw15.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": -360
+    },
+    "za": {
+        "premium_servers": [
+            { "host": "za1.lunrac.com", "port": 443 },
+            { "host": "za2.lunrac.com", "port": 443 },
+            { "host": "za3.lunrac.com", "port": 443 },
+            { "host": "za4.lunrac.com", "port": 443 },
+            { "host": "za5.lunrac.com", "port": 443 },
+            { "host": "za6.lunrac.com", "port": 443 },
+            { "host": "za7.lunrac.com", "port": 443 }
+        ],
+        "timezoneOffset": 120
+    }
+}
